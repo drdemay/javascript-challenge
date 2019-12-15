@@ -96,12 +96,14 @@ select {
   position: relative;
   height: 550px;
   padding: 20px;
+  width: auto;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
-  background-attachment: fixed;
-  background-position: bottom center;
+  background-image: url("../images/green_ufo.jpg");
+  background-attachment: fixed; 
+  background-position: center;
   background-size: cover;
+  color: yellowgreen;
 }
 
 .hero h1 {
